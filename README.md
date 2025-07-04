@@ -2,7 +2,8 @@
 <h1 align="center" color="red">Welcome To Vaishali Kharat Profile!👋</h1>
 <h3 align="center">A Passionate Mern Stack Developer From India .</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="![image_processing20210301-3601-w1fbuc](https://github.com/user-attachments/assets/a51d83a0-b6c3-4ef4-811e-09f175f8af95)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kharat-vaishali&label=Profile%20views&color=0e75b6&style=flat" alt="kharat-vaishali" /> </p>
 
